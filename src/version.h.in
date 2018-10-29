@@ -1,0 +1,15 @@
+/***************************************************
+ * version.h
+ * Created on Tue, 02 Oct 2018 13:55:41 +0000 by vladimir
+ *
+ * $Author$
+ * $Rev$
+ * $Date$
+ ***************************************************/
+#pragma once
+
+#define VERSION_MAJOR     @VERSION_MAJOR@
+#define VERSION_MINOR     @VERSION_MINOR@
+#define PATCH_NUMBER      @PATCH_NUMBER@
+
+#define VERSION_STRING    "@VERSION_STRING@"
